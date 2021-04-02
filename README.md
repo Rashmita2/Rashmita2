@@ -2,8 +2,7 @@
 
 <!--
 **Rashmita2/Rashmita2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Simple Budget
 - 🌱 I’m currently learning AWS
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love running.
--->
