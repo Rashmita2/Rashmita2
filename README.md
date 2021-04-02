@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/) [Email]('Rashmitakhatri23@gmail.com')
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/) or rashmitakhatri23@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love running.
 
