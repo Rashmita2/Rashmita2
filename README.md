@@ -30,6 +30,8 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
