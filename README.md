@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love running.
 
 ### Languages and Tools
+<img align="left" alt="java" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcorda%2Fhow-to-develop-a-blockchain-application-if-you-only-know-java-f93dcf52cb60&psig=AOvVaw0EzRqBBVt7dG_v6B89uzr7&ust=1617544077237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi9p7Kb4u8CFQAAAAAdAAAAABAI" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
