@@ -13,8 +13,7 @@
 - ⚡ Fun fact: I love running.
 
 ### Languages and Tools
-<img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67445848/113480575-8c7e7f80-945a-11eb-8257-dd9f41d5f9f2.png
-"
+<img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67445848/113480594-a9b34e00-945a-11eb-8c99-4f4e3033b975.jpeg"
  />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
