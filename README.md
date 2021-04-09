@@ -4,7 +4,7 @@
 **Rashmita2/Rashmita2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a Research Assistant at RAID lab, UTA
+- 🔭 I’m currently working as a Research Assistant at RAID labs, UTA
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
