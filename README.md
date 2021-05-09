@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Research Assistant 
 - 🌱 I’m currently learning cloud computing
-- 👯 I’m looking to collaborate on solving leetcode and attending seminars
+- 👯 I’m looking to collaborate on solving coding problems
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/) or rashmitakhatri23@gmail.com
 - 😄 Pronouns: She/Her
