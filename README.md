@@ -10,7 +10,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/) or rashmitakhatri23@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love running.
+
 
 ### Languages and Tools
 <img align="left" alt="java" width="26px" height="26px" src="https://user-images.githubusercontent.com/67445848/113480594-a9b34e00-945a-11eb-8c99-4f4e3033b975.jpeg"
