@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning cloud computing
 - 👯 I’m looking to collaborate on solving coding problems
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashmita-khatri-986653184/) or rashmitakhatri23@gmail.com
+- 📫 How to reach me: rashmitakhatri23@gmail.com
 - 😄 Pronouns: She/Her
 
 
