@@ -4,10 +4,8 @@
 **Rashmita2/Rashmita2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m a Software Engineering Student graduating on December 2021.
+- 🔭 I’m a Software Engineer.
 - 🌱 I’m currently learning cloud computing
-- 👯 I’m looking to collaborate on solving coding problems
-- 💬 Ask me about anything
 - 📫 How to reach me: rashmitakhatri23@gmail.com
 - 😄 Pronouns: She/Her
 
